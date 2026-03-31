@@ -494,22 +494,21 @@ This project is licensed under the MIT License.
 - Charts powered by [Recharts](https://recharts.org/)
 - Developed using [v0 by Vercel](https://v0.dev/)
 cd "c:\Users\MY-PC\Desktop\soil-productivity-prediction\backend"; .\start_backend.bat
-Columns (தரவு நெடுவரிசைகள்):
+Columns 
 
-N - Nitrogen (நைட்ரஜன்)
-P - Phosphorus (பாஸ்பரஸ்)
-K - Potassium (பொட்டாசியம்)
-pH - Soil pH (மண் அமிலத்தன்மை)
-OC - Organic Carbon (கரிம கரிமம்)
-EC - Electrical Conductivity (மின் கடத்துதிறன்)
-S - Sulphur (சல்பர்)
-Zn - Zinc (துத்தம்)
-Fe - Iron (இரும்பு)
-Cu - Copper (செம்பு)
-Mn - Manganese (மாங்கனீஸ்)
-B - Boron (போரான்)
-Moisture - Soil Moisture (மண் ஈரப்பதம்)
-Temp - Temperature (வெப்பநிலை)
-Humidity - Humidity (ஈரப்பதம்)
-Rainfall - Rainfall (மழை#   s o i l - p r o d u c t i v i t y - p r e d i c t i o n  
- 
+N - Nitrogen 
+P - Phosphorus 
+K - Potassium 
+pH - Soil pH 
+OC - Organic Carbon 
+EC - Electrical Conductivity 
+S - Sulphur 
+Zn - Zinc 
+Fe - Iron 
+Cu - Copper 
+Mn - Manganese 
+B - Boron 
+Moisture - Soil Moisture 
+Temp - Temperature 
+Humidity - Humidity 
+Rainfall - Rainfall 
